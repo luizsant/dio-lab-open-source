@@ -1,39 +1,52 @@
 # Olá, eu sou Luiz Santiago 👋
 
-## 👨‍💻 Apaixonado por Programação
+## 👨‍💻 Apaixonado por Programação e Inovação
 
-- 📚 Advogado e Servidor Público apaixonado por programação e engenharia de software.
-- 🌐 Cursando Engenharia de Software, buscando sempre aprender mais e aprofundar meus conhecimentos.
-- 🎯 Objetivo: Desenvolver minhas habilidades como programador.
+- 📚 Advogado e Servidor Público, explorando o mundo da tecnologia.
+- 🌐 Atualmente cursando Engenharia de Software, apaixonado por soluções inovadoras.
+- 🎯 Objetivo: Integrar conhecimentos jurídicos com tecnologia, desenvolvendo habilidades em programação e contribuindo para projetos impactantes.
 
 ## 🛠️ Habilidades e Ferramentas
 
-<!-- Seus badges atuais e novos badges aqui -->
+<p>
+  <!-- Badges existentes -->
+  <!-- Novos Badges -->
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</p>
 
-## 📫 Como me contatar
+## 📫 Contatos
 
 - 📧 [Email](mailto:seuemail@example.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seuperfil)
+- 🌐 [Portfolio](https://www.craftdev.com.br/)
 
 ## 🌟 Projetos Pessoais e Colaborações
 
-<!-- Lista de projetos com descrições e links -->
+- **LawTech Project**: Um projeto integrando tecnologia com práticas jurídicas.
+- **Open Source Contribution**: Contribuições em projetos de código aberto relevantes para engenharia de software.
 
 ## 📚 Aprendizado Contínuo
 
-<!-- Seus badges de aprendizado contínuo aqui -->
+- Estudando **Desenvolvimento Full-Stack** com foco em React e Node.js.
+- Explorando **Inteligência Artificial** e suas aplicações no mundo jurídico.
 
 ## 📈 Estatísticas do GitHub
 
-<!-- Seus cards de estatísticas e contribuições aqui -->
+<p align="center">
+  <a href="#"><img alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luizsant&show_icons=true&theme=dark" height="195px" /></a>
+  <a href="#"><img alt="Luiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsant&theme=dark&layout=compact" height="195px" /></a>
+</p>
 
-## ✍️ Desafios e Artigos na Digital Innovation One
+## ✍️ Desafios e Artigos
 
-<!-- Links para seus desafios e artigos -->
+- **Artigo sobre Direito e Tecnologia**: [Leia aqui](#)
+- **Desafio Full-Stack DIO**: [Veja o projeto](#)
 
 ## 📖 Sobre Mim
 
-<!-- Uma breve seção sobre você, seus interesses, e objetivos -->
+Sou um eterno aprendiz, buscando sempre combinar minha experiência jurídica com as inovações do mundo da tecnologia. Meu objetivo é criar soluções que simplifiquem e revolucionem a maneira como lidamos com o direito na era digital.
 
 ---
 
